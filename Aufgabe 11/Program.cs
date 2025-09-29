@@ -1,10 +1,10 @@
-﻿namespace Aufgabe_10
+﻿namespace Aufgabe_11
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int sum 
+            Console.WriteLine("Hello, World!");
         }
     }
 }
